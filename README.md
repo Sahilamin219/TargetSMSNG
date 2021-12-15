@@ -548,4 +548,4 @@ Print the respective answer for T test cases in total for T lines. The answer is
 Men's restroom problem : It is a well-researched fact that men in a restroom generally prefer to maximize their distance from already occupied stalls, by occupying the middle of the longest sequence of unoccupied places. For detailed version, check the following link. <br>
 Link : https://stackoverflow.com/questions/32645046/urinal-algorithm-a-simple-optimization
 
-
+<b> Hint : Use priority_queue to store distances </b>
